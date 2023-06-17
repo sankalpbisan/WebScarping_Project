@@ -4,7 +4,7 @@ To be more precise, I scraped Linkedin web site.
 I have used python language for my project.
 The modules used are :  bs4 (Beautifulsoup) and requests.
 
-**Procedure:**
+Procedure:
 First I have studied the HTML code of a particular Linkedin webpage (i.e. particular job search result).
 Then I stored the HTML object file into a variable by using request module.
 This object file is parsed into a parse tree using html-parser so that the html content can be manipulated.
