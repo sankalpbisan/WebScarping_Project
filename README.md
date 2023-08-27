@@ -1,6 +1,6 @@
 Hey there !
 I have completed my very first project based on web scraping.
-To be more precise, I scraped Linkedin web site.
+For the same, I used Linkedin web site for scraping data.
 I have used python language for my project.
 The modules used are :  bs4 (Beautifulsoup) and requests.
 
