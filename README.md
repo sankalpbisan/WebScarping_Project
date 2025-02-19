@@ -1,5 +1,7 @@
 # Web Scraping Project
 
+---
+
 ## Overview
 
 This repository contains a comprehensive **Web Scraping** project that demonstrates the ability to extract, analyze, and store data from websites using Python. The project leverages modern web scraping tools and techniques, allowing users to easily retrieve and manipulate data from a variety of web pages.
