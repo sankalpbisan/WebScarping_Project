@@ -1,4 +1,4 @@
-# Web Scraping Project
+# Job Portal Web Scraping Project
 
 ---
 
